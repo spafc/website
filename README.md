@@ -1,4 +1,4 @@
 spafc.github.io
 ===============
 
-Website for South Palo Alto Food Closet
+The website for South Palo Alto Food Closet.  Will replace old WordPress deployment.
